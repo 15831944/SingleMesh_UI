@@ -1,0 +1,71 @@
+{
+	"lines": [{"l_eCode":"019","id":"1901","length":155.17,"a_eCode":1},{"l_eCode":"005","id":"0501","length":24.26,"a_eCode":1},{"l_eCode":"027","id":"2701","length":5.51,"a_eCode":1},{"l_eCode":"017","id":"1701","length":60.37,"a_eCode":1},{"l_eCode":"004","id":"0401","length":90.0,"a_eCode":1},{"l_eCode":"018","id":"1801","length":144.6,"a_eCode":1},{"l_eCode":"011","id":"1101","length":8.72,"a_eCode":1},{"l_eCode":"016","id":"1601","length":314.56,"a_eCode":1},{"l_eCode":"010","id":"1001","length":9.06,"a_eCode":1},{"l_eCode":"009","id":"0901","length":159.78,"a_eCode":1},{"l_eCode":"021","id":"2101","length":88.0,"a_eCode":1},{"l_eCode":"022","id":"2201","length":34.59,"a_eCode":1},{"l_eCode":"026","id":"2601","length":26.03,"a_eCode":1},{"l_eCode":"015","id":"1501","length":19.74,"a_eCode":1},{"l_eCode":"013","id":"1301","length":64.67,"a_eCode":1},{"l_eCode":"024","id":"2401","length":80.05,"a_eCode":1},{"l_eCode":"001","id":"0101","length":7.45,"a_eCode":1},{"l_eCode":"003","id":"0302","length":26.01,"a_eCode":1},{"l_eCode":"008","id":"0801","length":124.7,"a_eCode":1},{"l_eCode":"007","id":"0701","length":408.92,"a_eCode":1},{"l_eCode":"012","id":"1201","length":94.98,"a_eCode":1},{"l_eCode":"006","id":"0601","length":45.84,"a_eCode":1},{"l_eCode":"002","id":"0201","length":55.4,"a_eCode":1},{"l_eCode":"014","id":"1401","length":302.01,"a_eCode":1},{"l_eCode":"025","id":"2501","length":154.16,"a_eCode":1},{"l_eCode":"023","id":"2301","length":5.18,"a_eCode":1},{"l_eCode":"020","id":"2001","length":156.08,"a_eCode":1},{"l_eCode":"013","id":"1302","length":240.6,"a_eCode":2},{"l_eCode":"004","id":"0402","length":65.84,"a_eCode":2},{"l_eCode":"011","id":"1102","length":20.48,"a_eCode":2},{"l_eCode":"007","id":"0702","length":214.99,"a_eCode":2},{"l_eCode":"009","id":"0902","length":130.91,"a_eCode":2},{"l_eCode":"008","id":"0802","length":109.36,"a_eCode":2},{"l_eCode":"027","id":"2702","length":198.91,"a_eCode":2},{"l_eCode":"025","id":"2502","length":141.1,"a_eCode":2},{"l_eCode":"024","id":"2402","length":638.56,"a_eCode":2},{"l_eCode":"003","id":"0303","length":11.5,"a_eCode":2},{"l_eCode":"021","id":"2102","length":27.19,"a_eCode":2},{"l_eCode":"023","id":"2302","length":39.24,"a_eCode":2},{"l_eCode":"010","id":"1002","length":190.95,"a_eCode":2},{"l_eCode":"006","id":"0602","length":6.48,"a_eCode":2},{"l_eCode":"014","id":"1402","length":48.67,"a_eCode":2},{"l_eCode":"022","id":"2202","length":206.11,"a_eCode":2},{"l_eCode":"026","id":"2602","length":126.15,"a_eCode":2},{"l_eCode":"017","id":"1702","length":120.52,"a_eCode":2},{"l_eCode":"002","id":"0202","length":6.64,"a_eCode":2},{"l_eCode":"012","id":"1202","length":15.26,"a_eCode":2},{"l_eCode":"001","id":"0102","length":17.2,"a_eCode":2},{"l_eCode":"015","id":"1502","length":19.83,"a_eCode":2},{"l_eCode":"005","id":"0502","length":48.23,"a_eCode":2},{"l_eCode":"004","id":"0403","length":52.32,"a_eCode":3},{"l_eCode":"021","id":"2103","length":24.44,"a_eCode":3},{"l_eCode":"026","id":"2603","length":103.58,"a_eCode":3},{"l_eCode":"009","id":"0903","length":160.55,"a_eCode":3},{"l_eCode":"023","id":"2303","length":239.2,"a_eCode":3},{"l_eCode":"005","id":"0503","length":79.8,"a_eCode":3},{"l_eCode":"015","id":"1503","length":31.41,"a_eCode":3},{"l_eCode":"011","id":"1103","length":181.04,"a_eCode":3},{"l_eCode":"003","id":"0304","length":28.49,"a_eCode":3},{"l_eCode":"001","id":"0103","length":88.24,"a_eCode":3},{"l_eCode":"010","id":"1003","length":592.27,"a_eCode":3},{"l_eCode":"014","id":"1403","length":24.22,"a_eCode":3},{"l_eCode":"012","id":"1203","length":317.83,"a_eCode":3},{"l_eCode":"006","id":"0603","length":576.25,"a_eCode":3},{"l_eCode":"002","id":"0203","length":241.9,"a_eCode":3},{"l_eCode":"013","id":"1303","length":103.54,"a_eCode":3},{"l_eCode":"024","id":"2403","length":467.19,"a_eCode":3},{"l_eCode":"005","id":"0504","length":81.4,"a_eCode":4},{"l_eCode":"004","id":"0404","length":22.7,"a_eCode":4},{"l_eCode":"015","id":"1504","length":113.16,"a_eCode":4},{"l_eCode":"003","id":"0305","length":46.22,"a_eCode":4},{"l_eCode":"014","id":"1404","length":12.96,"a_eCode":4},{"l_eCode":"011","id":"1104","length":580.1,"a_eCode":4},{"l_eCode":"010","id":"1004","length":18.55,"a_eCode":4},{"l_eCode":"026","id":"2604","length":30.74,"a_eCode":4},{"l_eCode":"001","id":"0104","length":49.22,"a_eCode":4},{"l_eCode":"024","id":"2404","length":643.7,"a_eCode":4},{"l_eCode":"004","id":"0405","length":33.76,"a_eCode":5},{"l_eCode":"015","id":"1505","length":67.15,"a_eCode":5},{"l_eCode":"001","id":"0105","length":37.65,"a_eCode":5},{"l_eCode":"026","id":"2605","length":14.22,"a_eCode":5},{"l_eCode":"011","id":"1105","length":49.88,"a_eCode":5},{"l_eCode":"010","id":"1005","length":53.99,"a_eCode":5},{"l_eCode":"024","id":"2405","length":66.32,"a_eCode":5},{"l_eCode":"003","id":"0306","length":27.56,"a_eCode":5},{"l_eCode":"005","id":"0505","length":365.18,"a_eCode":5},{"l_eCode":"014","id":"1405","length":48.24,"a_eCode":5},{"l_eCode":"004","id":"0406","length":33.37,"a_eCode":6},{"l_eCode":"014","id":"1406","length":4.52,"a_eCode":6},{"l_eCode":"011","id":"1106","length":157.08,"a_eCode":6},{"l_eCode":"015","id":"1506","length":128.7,"a_eCode":6},{"l_eCode":"024","id":"2406","length":16.64,"a_eCode":6},{"l_eCode":"011","id":"1107","length":22.73,"a_eCode":7},{"l_eCode":"004","id":"0407","length":45.32,"a_eCode":7},{"l_eCode":"024","id":"2407","length":5.8,"a_eCode":7},{"l_eCode":"004","id":"0408","length":185.38,"a_eCode":8},{"l_eCode":"011","id":"1108","length":20.2,"a_eCode":8},{"l_eCode":"011","id":"1109","length":89.49,"a_eCode":9},{"l_eCode":"004","id":"0409","length":27.4,"a_eCode":9},{"l_eCode":"004","id":"0410","length":390.35,"a_eCode":10},{"l_eCode":"011","id":"1110","length":8.79,"a_eCode":10},{"l_eCode":"011","id":"1111","length":13.89,"a_eCode":11},{"l_eCode":"004","id":"0411","length":40.51,"a_eCode":11},{"l_eCode":"011","id":"1112","length":45.55,"a_eCode":12},{"l_eCode":"004","id":"0412","length":21.47,"a_eCode":12},{"l_eCode":"004","id":"0413","length":667.08,"a_eCode":13},{"l_eCode":"011","id":"1113","length":16.5,"a_eCode":13},{"l_eCode":"004","id":"0414","length":308.42,"a_eCode":14},{"l_eCode":"011","id":"1114","length":67.85,"a_eCode":14},{"l_eCode":"011","id":"1115","length":10.32,"a_eCode":15},{"l_eCode":"004","id":"0415","length":172.31,"a_eCode":15},{"l_eCode":"011","id":"1116","length":17.67,"a_eCode":16},{"l_eCode":"004","id":"0416","length":9.83,"a_eCode":16},{"l_eCode":"004","id":"0417","length":18.86,"a_eCode":17},{"l_eCode":"004","id":"0418","length":75.07,"a_eCode":18},{"l_eCode":"004","id":"0419","length":15.27,"a_eCode":19}],
+	"ways": [{
+		"id": "tf01",
+		"name": "通风第一通道",
+		"type": 1,
+		"points": [{
+			"lineId": "42218",
+			"distance": 30
+		}, {
+			"lineId": "42225",
+			"distance": 50
+		}, {
+			"lineId": "42262",
+			"distance": 10
+		}]
+	}],
+	"config": {
+		"area": [{
+			"eCode": "A13",
+			"name": "第一采区"
+		}, {
+			"eCode": "A2",
+			"name": "第二采区"
+		}],
+		"line": [{"eCode":"004","name":"320轨道大巷"},{"eCode":"019","name":"3上2336材料巷"},{"eCode":"011","name":"465轨道大巷"},{"eCode":"023","name":"-270皮带巷"},{"eCode":"001","name":"井底北"},{"eCode":"024","name":"岩石集中巷"},{"eCode":"013","name":"485轨道巷"},{"eCode":"025","name":"一采区上平巷"},{"eCode":"037","name":"555泵房"},{"eCode":"022","name":"上仓皮带巷"},{"eCode":"006","name":"3下235运输巷"},{"eCode":"041","name":"3轨变电所"},{"eCode":"002","name":"一采区轨道巷"},{"eCode":"014","name":"2米车房绞车斜巷"},{"eCode":"008","name":"310材料巷"},{"eCode":"009","name":"310运输巷"},{"eCode":"027","name":"270回风巷"},{"eCode":"021","name":"辅助回风巷"},{"eCode":"003","name":"井底南"},{"eCode":"036","name":"第三皮带上山"},{"eCode":"034","name":"四采区皮带巷"},{"eCode":"044","name":"二号煤仓上口"},{"eCode":"045","name":"装载硐室"},{"eCode":"030","name":"465外车场"},{"eCode":"042","name":"465避难硐室"},{"eCode":"035","name":"465水泵房"},{"eCode":"033","name":"三采区变电所"},{"eCode":"032","name":"320避难硐室"},{"eCode":"039","name":"炸药房"},{"eCode":"031","name":"二轨"},{"eCode":"028","name":"井口"},{"eCode":"018","name":"3上2336运输巷"},{"eCode":"038","name":"中央泵房"},{"eCode":"026","name":"一采区补充回风巷"},{"eCode":"007","name":"乘人下山"},{"eCode":"010","name":"465皮带大巷"},{"eCode":"040","name":"井底车场"},{"eCode":"020","name":"三采区上平巷"},{"eCode":"017","name":"3上2336探煤巷"},{"eCode":"012","name":"485皮带巷"},{"eCode":"016","name":"3下2326材料巷"},{"eCode":"043","name":"3下2326进风巷"},{"eCode":"015","name":"3下2326运输巷"},{"eCode":"029","name":"1米6车场"},{"eCode":"005","name":"3下235材料巷"}],
+		"eType": [{
+			"eCode": "GR",
+			"name": "领导",
+			"data": {
+				"icon": "http://127.0.0.1:8081/single/img/Base station.png",
+				"color": "#00FF45"
+			}
+		},{
+			"eCode": "LD",
+			"name": "工人",
+			"data": {
+				"icon": "http://127.0.0.1:8081/single/img/CCTV.png",
+				"color": "#FF001D"
+			}
+		},{
+			"eCode": "FK",
+			"name": "访客",
+			"data": {
+				"icon": "http://127.0.0.1:8080/single/img/EQUIPMENT.png",
+				"color": "#F31D1D"
+			}
+		},{
+			"eCode": "XR",
+			"name": "闲人",
+			"data": {
+				"icon": "http://127.0.0.1:8080/single/img/Leader.png",
+				"color": "#F31D1D"
+			}
+		}, {
+			"eCode": "CL",
+			"name": "车辆",
+			"data": {
+				"icon": "http://127.0.0.1:8080/single/img/car.png",
+				"color": "#FFFFFF"
+			}
+		}, {
+			"eCode": "SB",
+			"name": "设备",
+			"data": {
+				"icon": "http://127.0.0.1:8080/single/img/Factor.png",
+				"color": "#FFFFFF"
+			}
+		}]
+	}
+}

@@ -1,0 +1,7573 @@
+{
+	"id": "GZ003079",
+	"data": [{
+		"key": "姓名",
+		"keyfontsize": 2,
+		"keyfontcolor": "#000000",
+		"value": "梁平",
+		"valuefontsize": 2,
+		"valuefontcolor": "#000000"
+	}],
+	"t_eCode": "PersonImage",
+	"track": [{
+			"lineId": "0302",
+			"distance": 0.1,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:02:27",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底南0.1米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0302",
+			"distance": 26.01,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:02:28",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底南26.01米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0303",
+			"distance": 0,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:02:56",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底南26.01米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0303",
+			"distance": 7.69,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:02:57",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底南33.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0303",
+			"distance": 11.5,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:02:58",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底南37.51米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0304",
+			"distance": 0,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:03:24",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底南37.51米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0304",
+			"distance": 22.79,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:03:25",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底南60.3米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0304",
+			"distance": 28.49,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:03:26",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底南66.00米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0305",
+			"distance": 0,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:03:56",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底南66.00米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0305",
+			"distance": 26.8,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:03:57",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底南92.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0305",
+			"distance": 46.22,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:03:58",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底南112.22米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0306",
+			"distance": 0,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:04:24",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底南112.22米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0306",
+			"distance": 4.98,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:04:25",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底南117.2米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0306",
+			"distance": 15.48,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:04:35",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底南127.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0104",
+			"distance": 40.41,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:36:52",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北153.3米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0104",
+			"distance": 49.22,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:36:53",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北162.11米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0105",
+			"distance": 0,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:37:23",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北162.11米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0105",
+			"distance": 1.49,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:37:24",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北163.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0105",
+			"distance": 27.99,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:37:54",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北190.1米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0201",
+			"distance": 55.1,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:38:24",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷55.1米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0201",
+			"distance": 55.4,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:38:25",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷55.40米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0202",
+			"distance": 0,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:38:53",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷55.40米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0202",
+			"distance": 6.64,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:38:25",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷62.04米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 0,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:38:53",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷62.04米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 18.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:38:54",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷80.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.36,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:39:24",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.4米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 38.86,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:39:56",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷100.9米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 41.86,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:40:26",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷103.9米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 34.96,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:40:56",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷97.0米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:41:30",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷386.2米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:42:00",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷364.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:42:32",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷363.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:43:02",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷365.4米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:43:30",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷363.1米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:43:50",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷364.1米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:44:28",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷364.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:45:04",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷365.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:45:34",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷364.4米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:46:02",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷365.1米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:46:18",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷364.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:47:04",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷364.4米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:47:34",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷364.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:47:46",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷364.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:48:34",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷365.1米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:49:06",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷363.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:49:36",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷382.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:49:58",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷394.2米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:50:20",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷392.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:53:16",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷392.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:53:38",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷394.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:53:50",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷398.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 32.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:54:46",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷94.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 35.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:55:16",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷97.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.46,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:55:48",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:56:18",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.26,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:56:48",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.3米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.26,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:57:16",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.3米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.36,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:57:50",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.4米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.26,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:58:18",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.3米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 46.96,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:58:50",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷109.0米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.26,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:59:20",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.3米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 47.06,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:59:48",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷109.1米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.26,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 12:59:58",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.3米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 48.06,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:00:52",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷110.1米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 48.06,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:01:20",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷110.1米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 46.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:01:52",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷108.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 36.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:02:18",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷98.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 36.86,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:02:48",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷98.9米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 36.96,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:03:22",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.0米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 41.86,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:03:54",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷103.9米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 36.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:04:22",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷98.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 36.16,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:04:54",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷98.2米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:05:26",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 41.96,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:05:56",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷104.0米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 47.36,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:06:26",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷109.4米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 47.36,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:06:56",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷109.4米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:07:24",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.06,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:07:54",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.1米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.46,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:08:24",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:08:52",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:09:10",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:09:58",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.86,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:10:46",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.9米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:11:16",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.46,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:11:50",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.36,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:12:20",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.4米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 47.36,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:12:50",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷109.4米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 36.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:13:20",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷98.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 38.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:13:52",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷100.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 36.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:14:18",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷98.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:14:50",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:15:24",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:15:52",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:16:28",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:16:58",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.46,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:17:28",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 38.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:17:56",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷100.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.06,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:18:30",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.1米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:18:58",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.16,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:19:30",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.2米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 36.96,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:19:44",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.0米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.16,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:20:32",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.2米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 36.96,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:20:58",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.0米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 36.36,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:21:32",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷98.4米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 36.46,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:22:02",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷98.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 35.96,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:22:32",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷98.0米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 20.46,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:23:04",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷82.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 0,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:23:05",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷62.04米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0202",
+			"distance": 6.64,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:23:05",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷61.4米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0202",
+			"distance": 6,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:23:32",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷61.4米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0202",
+			"distance": 0,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:23:33",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷55.40米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0201",
+			"distance": 55.4,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:23:33",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷31.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0201",
+			"distance": 31.5,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:24:04",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷31.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0201",
+			"distance": 24.6,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:24:34",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷24.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0201",
+			"distance": 23.8,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:25:04",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷23.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0201",
+			"distance": 9.1,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:25:32",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷9.1米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0104",
+			"distance": 38.01,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:26:06",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北150.9米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0104",
+			"distance": 37.71,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:26:28",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北150.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0104",
+			"distance": 37.61,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:27:06",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北150.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0104",
+			"distance": 37.31,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:27:34",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北150.2米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0104",
+			"distance": 37.31,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:28:04",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北150.2米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0104",
+			"distance": 37.01,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:28:36",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北149.9米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0104",
+			"distance": 37.01,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:28:48",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北149.9米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0104",
+			"distance": 37.21,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:29:34",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北150.1米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0104",
+			"distance": 37.11,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:29:56",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北150.0米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0104",
+			"distance": 37.21,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:30:36",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北150.1米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0104",
+			"distance": 38.81,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:31:08",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北151.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0104",
+			"distance": 38.51,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:31:38",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北151.4米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0104",
+			"distance": 38.91,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:32:10",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北151.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0104",
+			"distance": 45.11,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:32:40",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北158.0米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0104",
+			"distance": 49.22,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:32:41",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北162.11米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0105",
+			"distance": 0,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:33:07",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北162.11米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0105",
+			"distance": 19.09,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:33:08",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北181.2米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0105",
+			"distance": 29.29,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:33:40",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北191.4米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0105",
+			"distance": 37.65,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:34:02",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北201.9米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0105",
+			"distance": 37.65,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:34:42",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北202.3米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0105",
+			"distance": 37.65,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:35:12",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北201.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0105",
+			"distance": 37.65,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:35:42",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北202.4米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0202",
+			"distance": 0.4,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:36:12",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷55.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0202",
+			"distance": 6.64,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:36:13",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷62.04米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 0,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:36:41",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷62.04米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 12.46,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:36:42",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷74.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 31.46,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:37:14",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷93.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 38.06,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:37:44",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷100.1米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 38.16,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:38:10",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷100.2米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 38.46,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:38:40",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷100.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 32.96,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:39:14",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷95.0米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 32.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:39:44",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷94.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.26,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:40:16",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.3米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 36.96,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:40:44",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.0米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 46.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:41:14",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷108.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 47.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:41:46",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷109.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 38.26,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:42:16",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷100.3米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.96,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:42:48",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷100.0米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:43:16",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 38.36,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:43:50",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷100.4米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 39.26,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:44:18",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷101.3米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 41.96,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:44:50",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷104.0米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 39.16,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:45:20",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷101.2米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.36,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:45:50",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.4米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:46:20",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 37.26,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:46:46",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷99.3米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 32.16,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:47:22",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷94.2米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:47:53",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷390.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:48:23",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷366.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:48:53",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷350.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:49:23",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷332.3米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:49:53",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷314.4米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 234.06,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:50:25",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷296.1米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 216.46,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:50:55",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷278.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 201.06,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:51:25",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷263.1米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 92.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:51:55",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷154.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 109.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:52:25",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷171.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 127.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:52:57",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷189.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 144.36,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:53:27",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷206.4米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 158.06,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:53:57",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷220.1米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 168.06,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:54:25",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷230.1米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 168.46,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:54:57",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷230.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:55:29",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.86,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:55:57",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.9米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.86,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:56:19",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.9米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.46,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:56:59",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:57:29",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.46,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:57:57",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:58:31",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:59:01",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:59:29",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 13:59:49",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:00:33",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:01:03",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:01:21",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:02:03",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:03:43",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:04:03",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:04:41",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:05:11",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:05:27",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:05:51",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:06:55",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:07:25",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:07:49",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:08:21",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:08:57",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 168.06,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:09:29",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷230.1米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 177.86,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:09:59",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷239.9米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 194.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:10:29",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷256.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 206.96,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:11:01",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷269.0米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 206.96,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:11:25",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷269.0米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 215.16,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:12:01",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷277.2米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 218.16,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:12:17",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷280.2米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 168.46,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:28:45",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷230.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.96,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:29:07",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷227.0米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 166.96,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:29:45",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷229.0米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 167.46,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:29:49",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷229.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 167.46,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:30:06",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷229.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 167.46,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:30:30",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷229.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 167.26,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:31:20",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷229.3米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 166.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:31:52",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷228.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 168.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:32:24",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷230.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:32:54",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.86,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:33:24",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.9米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:33:52",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:34:18",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:34:34",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:35:26",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.86,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:35:50",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.9米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:36:18",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.86,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:36:56",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.9米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:37:24",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:37:46",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.86,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:38:16",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.9米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.86,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:38:58",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.9米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.46,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:39:24",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:39:30",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:41:14",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.46,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:41:38",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.46,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:42:12",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:42:44",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:43:10",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:43:40",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:44:12",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.46,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:44:48",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:44:50",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:45:44",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:46:18",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.86,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:46:46",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.9米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:46:58",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:47:44",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:48:16",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:48:44",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:49:08",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:49:50",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:50:16",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:50:50",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:51:18",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:52:12",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:52:34",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:53:02",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:53:36",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.46,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:54:42",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.46,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:54:50",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:55:34",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:56:14",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:56:44",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:56:54",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:58:00",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:58:06",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:59:08",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 14:59:24",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:00:38",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:02:10",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:02:12",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:03:54",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:04:36",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:05:02",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:05:34",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.36,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:05:52",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.4米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:06:38",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:06:42",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:08:20",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:08:50",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:08:56",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:10:20",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:10:52",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:11:00",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:11:48",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:12:16",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:12:50",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:13:22",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.86,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:13:42",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.9米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.96,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:14:24",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷227.0米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.86,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:14:54",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.9米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.96,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:15:24",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷227.0米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.86,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:15:52",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.9米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:16:16",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:16:48",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:17:14",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:17:58",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:18:30",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:18:36",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:19:48",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.76,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:19:54",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:20:50",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.86,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:21:14",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.9米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 164.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:21:54",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷226.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 165.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:22:26",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷227.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 167.26,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:22:54",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷229.3米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 168.86,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:23:16",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷230.9米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 169.16,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:23:56",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷231.2米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 171.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:24:26",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷233.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 195.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:24:56",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷257.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 201.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:25:08",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷263.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 211.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:25:44",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷273.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 167.06,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:47:08",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷229.1米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 167.16,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:47:38",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷229.2米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 173.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:48:08",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷235.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 208.46,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:48:40",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷270.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 210.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 15:48:42",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷272.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 151.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:05:42",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷213.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 140.06,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:06:12",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷202.1米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 125.96,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:06:42",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷188.0米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 112.86,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:07:14",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷174.9米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 95.96,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:07:42",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷158.0米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 199.56,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:08:14",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷261.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 201.86,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:08:42",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷263.9米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 204.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:09:14",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷266.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 222.16,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:09:44",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷284.2米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 226.36,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:10:12",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷288.4米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.06,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:10:44",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷303.1米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:11:16",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷319.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:11:46",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷335.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:12:16",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷353.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:12:40",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷373.3米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 241.9,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:12:58",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷390.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 5.66,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:14:15",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷67.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0203",
+			"distance": 0,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:14:16",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷62.04米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0202",
+			"distance": 6.64,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:14:16",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷38.4米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0202",
+			"distance": 0,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:14:16",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷55.40米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0201",
+			"distance": 55.4,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:14:16",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷38.4米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0201",
+			"distance": 38.4,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:14:47",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷38.4米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0201",
+			"distance": 33.1,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:15:15",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷33.1米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0201",
+			"distance": 33.3,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:15:29",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷33.3米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0201",
+			"distance": 33.2,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:16:15",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷33.2米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0201",
+			"distance": 23.8,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:16:47",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷23.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0201",
+			"distance": 24.3,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:17:19",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷24.3米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0201",
+			"distance": 11.2,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:17:31",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷11.2米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0104",
+			"distance": 47.31,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:18:00",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北160.2米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0104",
+			"distance": 47.41,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:19:40",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北160.3米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0104",
+			"distance": 49.22,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:19:41",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北162.11米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0105",
+			"distance": 0,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:20:09",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北162.11米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0105",
+			"distance": 26.39,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:20:10",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北188.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0201",
+			"distance": 29.5,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:20:41",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷29.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0201",
+			"distance": 8.3,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:21:03",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "一采区轨道巷8.3米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0104",
+			"distance": 29.51,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:21:42",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北142.4米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0104",
+			"distance": 22.71,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:22:12",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北135.6米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0104",
+			"distance": 24.91,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:22:30",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北137.8米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0104",
+			"distance": 24.61,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:23:12",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北137.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0104",
+			"distance": 24.81,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:23:36",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北137.7米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0104",
+			"distance": 24.61,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:24:44",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北137.5米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		},
+		{
+			"lineId": "0104",
+			"distance": 24.31,
+			"data": [{
+					"key": "时间",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "2020-06-09 16:25:12",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				},
+				{
+					"key": "当前位置",
+					"keyfontsize": 2,
+					"keyfontcolor": "#000000",
+					"value": "井底北137.2米",
+					"valuefontsize": 2,
+					"valuefontcolor": "#000000"
+				}
+			]
+		}
+	]
+}
