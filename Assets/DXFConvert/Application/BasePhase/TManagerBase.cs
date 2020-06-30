@@ -78,36 +78,31 @@ public class TManagerBase : MonoBehaviour {
     private string[] content;
     IEnumerator loadStreamingAsset(string _url)
     {
-        //string filePath = "http://localhost/webgl/StreamingAssets/CAD/" + fileName + ".dxf";
-        //string filePath = System.IO.Path.Combine(Application.streamingAssetsPath, _url);
+        string _resultPath = "http://";
         string _path = Application.streamingAssetsPath;
-        int index = 0;
-        for (int i = 0; i < _path.Split('/').Length; i++)
+        foreach (string item in _path.Split('/'))
         {
-            if (!string.IsNullOrEmpty(_path.Split('/')[i]))
+            if (item.Split(':').Length > 1)
             {
-                if (IsNum(_path.Split('/')[i]))
+                if (IsNum(item.Split(':')[1]) && !string.IsNullOrEmpty(item.Split(':')[1]))
                 {
-                    index = i;
+                    _resultPath += item;
                 }
             }
         }
-        string _path1 = "";
-        for (int j = 0; j < index; j++)
-        {
-            _path1 += _path.Split('/')[j] + "/";
-        }
+        _url = _resultPath + _url;
+        Debug.Log(_url);
         string result;
-        if ((_path1 + _url).Contains("://") || (_path1 + _url).Contains(":///"))
+        if ((_url).Contains("://") || (_url).Contains(":///"))
         {
-            UnityWebRequest unityWebRequest = UnityWebRequest.Get(_path1 + _url);
+            UnityWebRequest unityWebRequest = UnityWebRequest.Get(_url);
             yield return unityWebRequest.SendWebRequest();
             result = unityWebRequest.downloadHandler.text;
             content = result.Split(new string[] { "\r\n" }, StringSplitOptions.None);
             LoadDXF();
         }
         else {
-            content = File.ReadAllLines(_path1 + _url);
+            content = File.ReadAllLines(_url);
             LoadDXF();
         }
     }

@@ -205,16 +205,16 @@ public class TLayerBase : MonoBehaviour
 
     private void ResetCenterPos() {
         //GameObject.Find("TViewBase").transform.position -= MeshGenerater.DataContainer.GetInstance().GetCenterPos();
-        float top = -100000f;
-        Vector3 topPos = Vector3.zero;
-        foreach (Vector3 item in MeshGenerater.DataContainer.GetInstance().GetNodePosList())
-        {
-            if (item.y > top)
-            {
-                top = item.y;
-                topPos = item;
-            }
-        }
-        GameObject.Find("TViewBase").transform.position = -topPos;
+        //float top = -100000f;
+        //Vector3 topPos = Vector3.zero;
+        //foreach (Vector3 item in MeshGenerater.DataContainer.GetInstance().GetNodePosList())
+        //{
+        //    if (item.y > top)
+        //    {
+        //        top = item.y;
+        //        topPos = item;
+        //    }
+        //}
+        //GameObject.Find("TViewBase").transform.position = -topPos;
     }
 }

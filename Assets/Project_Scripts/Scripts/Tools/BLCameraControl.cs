@@ -386,7 +386,7 @@ public class BLCameraControl : MonoBehaviour
         Vector3 targetCenter = NormalCenter.GetCenter(target);
         norCenterGo.position = targetCenter;
         float norDis = (targetSize.x + targetSize.z) / 2f + 300f;
-        SetZoomLimit(400, 2500);
+        SetZoomLimit(400, 10000);
         MoveTo(norDis, 30f);
         canZoom = true;
         isMove = true;

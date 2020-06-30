@@ -382,7 +382,7 @@ namespace BS.BL.Two.Item
                 mainManager.SetResActive(true);
                 mainManager.tviewBase.gameObject.SetActive(true);
                 BL.Manager.MainManager.GetInstance().overground.SetActive(false);
-                Camera.main.GetComponent<BLCameraControl>().LookAtResAutoDis(mainManager.tviewBase);
+                Camera.main.GetComponent<BLCameraControl>().LookAtResAutoDis(mainManager.tviewBase, true);
             }
             if (ground.Length > 1)
             {
